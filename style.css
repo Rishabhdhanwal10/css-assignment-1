@@ -1,0 +1,31 @@
+.red{
+    color: red;
+}
+.brown{
+    color: brown;
+}
+.list-1{
+    color: brown;
+    line-height: 44px;
+}
+.headings{
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+}
+.bg-color{
+    background-color: yellow;
+    font-weight: bold;
+}
+.list-2 li{
+    color: brown;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+    line-height: 20px;
+}
+.prep{
+    background-color: yellow;
+    color: brown;
+    font-style: italic;
+    text-decoration: none;
+}
